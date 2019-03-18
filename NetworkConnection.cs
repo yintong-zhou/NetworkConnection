@@ -7,7 +7,7 @@ using System.Net;
 using System.ComponentModel;
 using System.Runtime.InteropServices;
 
-namespace OptiService_2
+namespace NameSpace
 {
     class NetworkConnection : IDisposable
     {
