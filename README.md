@@ -1,6 +1,6 @@
 # NetworkConnection
 C# network connection
 
-This class can be enable connection 2 computer with credential access.
+This class can be enable connection of two computers with credential access.
 
 
